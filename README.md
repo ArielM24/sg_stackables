@@ -1,6 +1,6 @@
 <img src="src/main/resources/assets/sg_stackables/stackables_icon.png" width="128">
 
-# Synchro Games Experience Storage
+# Synchro Games Stackable
 
 A simple mod to increase the stack size of items that are below 64 (except for tools and armor)
 
