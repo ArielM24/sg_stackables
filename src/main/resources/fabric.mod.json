@@ -1,0 +1,34 @@
+{
+	"schemaVersion": 1,
+	"id": "sg_stackables",
+	"version": "1.0.0",
+	"name": "sg_stackables",
+	"description": "Simple mod to increase the stack size of items that are below 64 (except for tools and armor)",
+	"authors": [
+		"ArielM24"
+	],
+	"contact": {
+		"homepage": "https://github.com/ArielM24/sg_stackables",
+		"sources": "https://github.com/ArielM24/sg_stackables"
+	},
+	"license": "MIT",
+	"icon": "assets/sg_stackables/stackables_icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"com.sg_stackables.Sg_stackables"
+		],
+		"client": [
+			"com.sg_stackables.Sg_stackablesClient"
+		]
+	},
+	"depends": {
+		"fabricloader": ">=0.16.9",
+		"minecraft": "~1.21.3",
+		"java": ">=21",
+		"fabric-api": "*"
+	},
+	"suggests": {
+		"another-mod": "*"
+	}
+}
