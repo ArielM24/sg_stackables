@@ -156,7 +156,23 @@ public class Sg_stackables implements ModInitializer {
 			Items.PINK_SHULKER_BOX,
 			Items.ARMOR_STAND,
 			Items.POWDER_SNOW_BUCKET,
-			Items.MILK_BUCKET
+			Items.MILK_BUCKET,
+			Items.RED_HARNESS,
+			Items.BLUE_HARNESS,
+			Items.GREEN_HARNESS,
+			Items.CYAN_HARNESS,
+			Items.YELLOW_HARNESS,
+			Items.BROWN_HARNESS,
+			Items.PURPLE_HARNESS,
+			Items.BLACK_HARNESS,
+			Items.WHITE_HARNESS,
+			Items.LIME_HARNESS,
+			Items.PINK_HARNESS,
+			Items.ORANGE_HARNESS,
+			Items.GRAY_HARNESS,
+			Items.LIGHT_GRAY_HARNESS,
+			Items.LIGHT_BLUE_HARNESS,
+			Items.MAGENTA_HARNESS,
 	};
 	
 	public static final Item[] itemsTo16 = new Item[]{
