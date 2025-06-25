@@ -1,8 +1,8 @@
 {
 	"schemaVersion": 1,
 	"id": "sg_stackables",
-	"version": "1.21.6",
-	"name": "sg_stackables",
+	"version": "${version}",
+	"name": "SG Stackables",
 	"description": "Simple mod to increase the stack size of items that are below 64 (except for tools and armor)",
 	"authors": [
 		"ArielM24"
@@ -12,7 +12,7 @@
 		"sources": "https://github.com/ArielM24/sg_stackables"
 	},
 	"license": "MIT",
-	"icon": "assets/sg_stackables/stackables_icon.png",
+	"icon": "assets/sg_stackables/sg-stackables.png",
 	"environment": "*",
 	"entrypoints": {
 		"main": [
