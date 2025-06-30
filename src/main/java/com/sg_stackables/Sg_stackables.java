@@ -120,6 +120,7 @@ public class Sg_stackables implements ModInitializer {
 			Items.MUSIC_DISC_5,
 			Items.MUSIC_DISC_PIGSTEP,
 			Items.MUSIC_DISC_TEARS,
+			Items.MUSIC_DISC_LAVA_CHICKEN,
 			Items.HONEY_BOTTLE,
 			Items.SUSPICIOUS_STEW,
 			Items.RABBIT_STEW,
