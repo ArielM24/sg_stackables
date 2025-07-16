@@ -174,6 +174,7 @@ public class Sg_stackables implements ModInitializer {
 			Items.LIGHT_GRAY_HARNESS,
 			Items.LIGHT_BLUE_HARNESS,
 			Items.MAGENTA_HARNESS,
+			Items.CAKE
 	};
 	
 	public static final Item[] itemsTo16 = new Item[]{
